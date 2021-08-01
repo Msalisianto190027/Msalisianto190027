@@ -1,4 +1,4 @@
-![banner](https://github.com/Msalisianto190027/Msalisianto190027/blob/main/readme_header.jpg)
+![banner](https://github.com/Msalisianto190027/Msalisianto190027/blob/main/banner.jpg)
 <!--
 ### Hi there 👋
 
