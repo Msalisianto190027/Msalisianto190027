@@ -1,4 +1,13 @@
-![banner](https://github.com/Msalisianto190027/Msalisianto190027/blob/main/banner.jpg)
+![banner](https://github.com/Msalisianto190027/Msalisianto190027/blob/main/banner.jpg) <br>
+
+<div align="center">
+
+ ![Twitter Follow](https://img.shields.io/twitter/follow/19_027?style=social)
+ ![GitHub followers](https://img.shields.io/github/followers/ZakaFahmi?style=social)
+ ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHK61hjmhnbGiVzrt5c4Vzw?style=social)
+  
+</div>
+
 <!--
 ### Hi there 👋
 
